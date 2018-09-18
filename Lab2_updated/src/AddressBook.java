@@ -46,6 +46,7 @@ public class AddressBook {
 		removeBuddy(a);
 		addBuddy(b);
 		addBuddy(c);
+		removeBuddy(c);
 		
 		//iterator used to print out the list
 		Iterator iter = ll.iterator();
