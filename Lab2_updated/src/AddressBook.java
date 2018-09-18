@@ -53,7 +53,7 @@ public class AddressBook {
 			System.out.println(((BuddyInfo) iter.next()).getName());
 		}
 		
-		System.out.println("Address Book");
+		System.out.println("AddressBook");
 
 	}
 
